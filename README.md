@@ -29,11 +29,11 @@
 ![](/static/imgs/05file.png)
 2. 在 `数字签名` 页，选择其签名，点击 `详细信息` 。  
 （请注意：某些软件有多个数字签名，例如这里的360就有两个，**都要拉黑**才行！）  
-![](/static/imgs/06cert.png)
+![](/static/imgs/06cert.png)  
 在新窗口中点击 `查看证书` 。
-![](/static/imgs/07view.png)
+![](/static/imgs/07view.png)  
 在 `详细信息` 页，点击下面的 `复制到文件...` 。
-![](/static/imgs/08export.png)
+![](/static/imgs/08export.png)  
 根据提示操作，保存到一个方便的目录下，备用。  
 ![](/static/imgs/09out.png)
 
